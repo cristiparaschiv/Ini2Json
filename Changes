@@ -1,0 +1,6 @@
+Revision history for Perl extension Ini2Json.
+
+0.01  Sat Apr 18 13:47:11 2015
+	- original version; created by h2xs 1.23 with options
+		-AX Ini2Json
+

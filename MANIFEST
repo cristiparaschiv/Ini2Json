@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Ini2Json.t
+lib/Ini2Json.pm
